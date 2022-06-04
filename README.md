@@ -13,7 +13,7 @@
 
 ### 2. Membuat Akses Untuk database
 
-![image](https://user-images.githubusercontent.com/101658076/171213898-66927e1b-cc39-48c1-9618-1a14367b558e.png)
+![image](https://user-images.githubusercontent.com/101658076/171987030-0b50d3b2-cc09-44c6-b78f-2b75772639dc.png)
 
 - Output nya :
 
